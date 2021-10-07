@@ -37,6 +37,7 @@ a {
 }
 a:hover {
  text-decoration: underline;
+ color: teal;
 }
 ul.posts { 
  margin: 20px auto 40px; 
