@@ -1,16 +1,20 @@
 body {
  margin: 60px auto;
  width: 70%;
+ background-colour: lightblue;
 }
 h1 {
+ text-align: centre;
  font-size: 3em;
- font-family:'Helvetica', 'Arial', 'Sans-Serif';
- color: red;
+ font-family:'Cambria Math';
+ color: green;
 }
 p {
+ text-align: centre;
  font-size: 1.5em;
  line-height: 1.4em;
- color: orange;
+ color: green;
+ font-family: 'Arial';
 }
 footer {
  border-top: 1px solid #d5d5d5;
