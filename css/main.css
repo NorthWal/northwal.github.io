@@ -4,17 +4,17 @@ body {
  background-color: lightblue;
 }
 h1 {
- text-align: centre;
+ text-align: center;
  font-size: 3em;
- font-family:'Cambria Math';
+ font-family:"Cambria Math";
  color: green;
 }
 p {
- text-align: centre;
+ text-align: center;
  font-size: 1.5em;
  line-height: 1.4em;
  color: green;
- font-family: 'Arial';
+ font-family: "Cambria Math";
 }
 footer {
  border-top: 1px solid #d5d5d5;
